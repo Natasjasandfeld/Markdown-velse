@@ -31,7 +31,7 @@ for (var i = 0; i < numbers.length; i++) {
 
 ## Billede 
 
-![Appelsin på et bord](/img/oranges.jpg)
+![Appelsin på et bord](img/oranges.jpg)
 
 ## Citat
 
